@@ -28,6 +28,7 @@
 
 ## 博客
 
+* [博客园 - 精华区](http://www.cnblogs.com/pick/)
 * [酷壳](http://coolshell.cn/)
 * [Linux大棚](http://roclinux.cn/)
 * [运维与架构](http://www.nginx.cn/)
