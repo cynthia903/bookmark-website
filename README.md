@@ -26,6 +26,11 @@
 * [开源中国在线工具](http://tool.oschina.net/)
 * [Icon Finder](https://www.iconfinder.com/)
 
+## 博客
+
+* [酷壳](http://coolshell.cn/)
+* [Linux大棚](http://roclinux.cn/)
+
 ## 社区
 
 * [V2EX](http://v2ex.com/)
