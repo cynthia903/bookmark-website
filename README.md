@@ -6,7 +6,7 @@
 * [ChinaUnix](http://www.chinaunix.net/)
 * [实验楼](http://www.shiyanlou.com/)
 * [鸟哥的 Linux 私房菜](http://vbird.dic.ksu.edu.tw/)
-* chttp://www.jianshu.com/p/307c8d0fbf22?utm_campaign=hugo&utm_medium=reader_share&utm_content=note)
+* [更多...](http://www.jianshu.com/p/307c8d0fbf22?utm_campaign=hugo&utm_medium=reader_share&utm_content=note)
 
 ## 编程
 
