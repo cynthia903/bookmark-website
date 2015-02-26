@@ -32,6 +32,13 @@
 * [Linux大棚](http://roclinux.cn/)
 * [运维与架构](http://www.nginx.cn/)
 
+## 资讯
+
+* [InfoQ](http://www.infoq.com/cn/)
+* [程序师](http://www.techug.com/)
+* [外刊IT评论](http://www.vaikan.com/)
+* [伯乐在线](http://top.jobbole.com/)
+
 ## 社区
 
 * [V2EX](http://v2ex.com/)
