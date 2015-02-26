@@ -30,6 +30,7 @@
 
 * [酷壳](http://coolshell.cn/)
 * [Linux大棚](http://roclinux.cn/)
+* [运维与架构](http://www.nginx.cn/)
 
 ## 社区
 
