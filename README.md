@@ -19,6 +19,8 @@
 * [SaltTiger](http://www.salttiger.com/)
 * [IT eBooks](http://it-ebooks.info/)
 * [Read the Docs](https://readthedocs.org/)
+* [<Git Cheatsheet>](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
+* [<Markdown Cheatsheet>](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [更多...](https://github.com/justjavac/free-programming-books-zh_CN)
 
 ## 工具
