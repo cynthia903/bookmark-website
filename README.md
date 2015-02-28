@@ -24,6 +24,11 @@
 ## 工具
 
 * [开源中国在线工具](http://tool.oschina.net/)
+* [Gliffy](https://www.gliffy.com/)
+
+ > Gliffy is a powerful HTML5 online diagram maker. Create a flow chart, network diagram, uml diagram, organizational chart or wireframe with ease.
+
+* [Cmd Markdown 编辑阅读器](https://www.zybuluo.com/mdeditor)
 * [Icon Finder](https://www.iconfinder.com/)
 
 ## 博客
