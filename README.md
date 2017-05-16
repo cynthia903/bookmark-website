@@ -14,8 +14,6 @@
 * [Cmd Markdown](https://www.zybuluo.com/mdeditor)
 * [Icon Finder](https://www.iconfinder.com/)
 
-* [微信公众平台开发者文档](http://mp.weixin.qq.com/wiki/home/index.html)
-
 ## Linux
 
 * [Linux中国](http://linux.cn/)
@@ -29,6 +27,16 @@
 * [The Java™ Tutorials](http://docs.oracle.com/javase/tutorial/index.html)
 * [Design Patterns | Object Oriented Design](http://www.oodesign.com/)
 * [并发编程网](http://ifeve.com/)
+
+### 开发文档
+
+* [微信公众平台开发者文档](http://mp.weixin.qq.com/wiki/home/index.html)
+* [微信web开发者工具](http://mp.weixin.qq.com/wiki/10/e5f772f4521da17fa0d7304f68b97d7e.html)
+
+### UI 库
+
+* [Vux](https://vux.li/#/)
+* [WeUI 微信原生视觉体验基础样式库](https://weui.io/)
 
 ## 书籍、文档
 
