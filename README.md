@@ -17,6 +17,20 @@
 * [Cmd Markdown](https://www.zybuluo.com/mdeditor)
 * [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/#tables)
 
+## 数据结构与算法
+
+* [《编程之法：面试和算法心得》](https://wizardforcel.gitbooks.io/the-art-of-programming-by-july/content/)
+* [LeetCode 中文网](https://leetcode-cn.com/)
+
+## Java
+
+* [Effective Java 3rd](https://github.com/sjsdfg/effective-java-3rd-chinese)
+* [Java 编程思想（第五版）](https://github.com/LingCoder/OnJava8)
+* [The Java™ Tutorials](http://docs.oracle.com/javase/tutorial/index.html)
+* [并发编程网](http://ifeve.com/)
+* [Spring Cloud 中文网](https://www.springcloud.cc/)
+* [Design Patterns | Object Oriented Design](http://www.oodesign.com/)
+
 ## Linux
 
 * [Linux中国](http://linux.cn/)
@@ -25,19 +39,9 @@
 * [鸟哥的 Linux 私房菜](http://vbird.dic.ksu.edu.tw/)
 * [更多...](http://www.jianshu.com/p/307c8d0fbf22?utm_campaign=hugo&utm_medium=reader_share&utm_content=note)
 
-## 编程
-
-* [极客时间](https://time.geekbang.org/)
-* [Effective Java 3rd](https://github.com/sjsdfg/effective-java-3rd-chinese)
-* [Java 编程思想（第五版）](https://github.com/LingCoder/OnJava8)
-* [The Java™ Tutorials](http://docs.oracle.com/javase/tutorial/index.html)
-* [Design Patterns | Object Oriented Design](http://www.oodesign.com/)
-* [并发编程网](http://ifeve.com/)
-* [Spring Cloud 中文网](https://www.springcloud.cc/)
-* [LeetCode](https://leetcode-cn.com/)
-
 ## 书籍、文档
 
+* [极客时间](https://time.geekbang.org/)
 * [免费的编程中文书籍索引](http://siberiawolf.com/free_programming/index.html)
 * [IT eBooks - Free Download IT eBooks](http://www.it-ebooks.info/)
 * [SaltTiger](http://www.salttiger.com/)
