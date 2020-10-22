@@ -32,6 +32,20 @@
 * [Spring Cloud 中文网](https://www.springcloud.cc/)
 * [Design Patterns | Object Oriented Design](http://www.oodesign.com/)
 
+## 前端
+
+* [Vue](https://cn.vuejs.org/)
+* [Vuex](https://vuex.vuejs.org/zh/)
+* [Vue Router](https://router.vuejs.org/zh/)
+* [Vue CLI](https://cli.vuejs.org/zh/)
+* [Element UI](https://element.eleme.cn/#/zh-CN/component/installation)
+* [vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/)
+* [EL-Admin](https://el-admin.vip/)
+* [JavaScript 参考 - JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference)
+* [ECMAScript 6 入门 - 阮一峰](https://es6.ruanyifeng.com/)
+* [ES6 教程 | 菜鸟教程](https://www.runoob.com/w3cnote_genre/es6)
+* [axios API 中文文档](http://www.axios-js.com/)
+
 ## Linux
 
 * [Linux中国](http://linux.cn/)
